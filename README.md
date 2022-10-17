@@ -22,4 +22,5 @@
   * https://github.com/Kolchuzhin/micromirror_cell_in_VHDL-AMS
   * https://github.com/Kolchuzhin/clamped-clamped_beam_in_VHDL-AMS
   * https://github.com/Kolchuzhin/LMGT_MEMS_component_library/tree/master/uniaxial_accelerometer
+
 ======================================================================
