@@ -1,0 +1,3 @@
+
+
+double-end fixed beam (300x70x2um)
