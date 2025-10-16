@@ -7,7 +7,6 @@
 * length=250 um
 * width=200 um
 * initial_gap=3.75 um
-
 * Young's modulus=169 GPa
 * Poisson's ratio=0.34
 * residial_stress=-20 MPa
@@ -15,13 +14,11 @@
 =====================================================================
 # ROM model
 
-the 1st mode frequency of the diaphragm is about 4.5986×10<sup>5</sup>Hz
+the 1st mode frequency of the diaphragm: 4.5986×10<sup>5</sup>Hz
 
+the displacement on mode 1st: $U_{str}=124.40707−2.47012×1014X+94.48845X^2+8.83317×10−15X^3+8.21894X^4$
 
-
-Ustr=124.40707−2.47012×1014X+94.48845X^2+8.83317×10−15X^3+8.21894X^4
-C=0.11801+9.34×10−3X+1.43×103X^2+3.86664×10−4X^3+8.63575×10−5X^4
-
+the capacitance function: $$C=0.11801+9.34×10−3X+1.43×103X^2+3.86664×10−4X^3+8.63575×10−5X^4$$
 
 =====================================================================
 
