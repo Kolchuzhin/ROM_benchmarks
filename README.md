@@ -4,12 +4,11 @@
 
 ## ROM methods
 
-* Superposition of modes (MSM)
+* [Superposition](https://en.wikipedia.org/wiki/Superposition_principle) of modes 
 
-  Mode superposition method uses the natural frequencies and mode shapes to characterize the dynamic response of a linear structure.
+  Mode superposition method (MSM) uses the natural frequencies and mode shapes to characterize the dynamic response of a linear structure.
 
-  https://en.wikipedia.org/wiki/Superposition_principle
-
+  
 ======================================================================
 
 ## Benchmarks:
@@ -24,7 +23,8 @@
   * [uniaxial_accelerometer_in_VHDL-AMS](https://github.com/Kolchuzhin/LMGT_MEMS_component_library/tree/master/uniaxial_accelerometer)
 
 ======================================================================
-
++ T. Mähne, K. Kehr, A. Franke, J. Hauer, and B. Schmidt, "Creating Virtual Prototypes of Complex MEMS Transducers Using Reduced-Order Modelling Methods and VHDL-AMS", Applications of Specification and Design Languages for SoCs: Selected papers from FDL'05. 2006. pp: 135-153
+----------------------------------------------------------------------
   * [Macromodeling of the Electrostatically Actuated Rectangle Plate Based On Modal Projection](https://doi.org/10.1109/ICMA.2007.4303992)
     
     [4303992_rectangle_plate](https://github.com/Kolchuzhin/ROM_benchmarks/tree/main/4303992_rectangle_plate)
