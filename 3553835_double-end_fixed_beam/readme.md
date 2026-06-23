@@ -3,6 +3,8 @@
 
 [DOI: 10.1109/JSEN.2025.3553835](https://ieeexplore.ieee.org/document/10945551)
 
+![double-end fixed beam](https://github.com/Kolchuzhin/ROM_benchmarks/blob/main/3553835_double-end_fixed_beam/3553835.svg)
+
 ## TABLE I Geometrical Parameter of Double-Fixed Beam
 
 | parameter | value | unit |
