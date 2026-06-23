@@ -4,9 +4,9 @@
 
 ## ROM methods
 
-* [Superposition](https://en.wikipedia.org/wiki/Superposition_principle) of modes 
+* [Superposition](https://en.wikipedia.org/wiki/Superposition_principle) of modes: 
 
-  Mode superposition method (MSM) uses the natural frequencies and mode shapes to characterize the dynamic response of a linear structure.
+    Mode superposition method (MSM) uses the natural frequencies and mode shapes to characterize the dynamic response of a linear structure.
 
   
 ======================================================================
@@ -22,22 +22,23 @@
   * [clamped-clamped_beam_in_VHDL-AMS](https://github.com/Kolchuzhin/clamped-clamped_beam_in_VHDL-AMS)
   * [uniaxial_accelerometer_in_VHDL-AMS](https://github.com/Kolchuzhin/LMGT_MEMS_component_library/tree/master/uniaxial_accelerometer)
 
-======================================================================
-+ T. Mähne, K. Kehr, A. Franke, J. Hauer, and B. Schmidt, "Creating Virtual Prototypes of Complex MEMS Transducers Using Reduced-Order Modelling Methods and VHDL-AMS", Applications of Specification and Design Languages for SoCs: Selected papers from FDL'05. 2006. pp: 135-153
+
++ T. Mähne, K. Kehr, A. Franke, J. Hauer, and B. Schmidt, "Creating Virtual Prototypes of Complex MEMS Transducers Using Reduced-Order Modelling Methods and VHDL-AMS", Applications of Specification and Design Languages for SoCs: Selected papers from FDL'05. 2006. pp: 135-153, DOI: [10.1109/ICECS.2014.7050122](https://link.springer.com/chapter/10.1007/978-1-4020-4998-9_8)
 ----------------------------------------------------------------------
-  * [Macromodeling of the Electrostatically Actuated Rectangle Plate Based On Modal Projection](https://doi.org/10.1109/ICMA.2007.4303992)
+### [Macromodeling of the Electrostatically Actuated Rectangle Plate Based On Modal Projection](https://doi.org/10.1109/ICMA.2007.4303992)
+
+  + [4303992_rectangle_plate](https://github.com/Kolchuzhin/ROM_benchmarks/tree/main/4303992_rectangle_plate)
+  
+### [Macromodeling of the electrostatically actuated circular plate based on mode superposition method](https://doi.org/10.1109/ICEMI.2009.5274654)
     
-    [4303992_rectangle_plate](https://github.com/Kolchuzhin/ROM_benchmarks/tree/main/4303992_rectangle_plate)
-    
-  * [Macromodeling of the electrostatically actuated circular plate based on mode superposition method](https://doi.org/10.1109/ICEMI.2009.5274654)
-    
-    [5274654_circular_plate](https://github.com/Kolchuzhin/ROM_benchmarks/tree/main/5274654_circular_plate)
+  + [5274654_circular_plate](https://github.com/Kolchuzhin/ROM_benchmarks/tree/main/5274654_circular_plate)
   
 ----------------------------------------------------------------------
-### Macro-Modeling Technique of Capacitive MEMS Based on the Implicit Condensation Method and Lagrange Principle
-  * [10.1109/JSEN.2025.3553835](https://doi.org/10.1109/JSEN.2025.3553835)
-
+### [Macro-Modeling Technique of Capacitive MEMS Based on the Implicit Condensation Method and Lagrange Principle](https://doi.org/10.1109/JSEN.2025.3553835)
   * [double-end fixed beam (300x70x2um)](https://github.com/Kolchuzhin/ROM_benchmarks/tree/main/3553835_double-end_fixed_beam)
   * capacitive accelerometer
     
+<!--
+  * [10.1109/JSEN.2025.3553835](https://doi.org/10.1109/JSEN.2025.3553835)
+-->   
 ======================================================================
