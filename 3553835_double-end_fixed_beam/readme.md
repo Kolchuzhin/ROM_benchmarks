@@ -1,6 +1,8 @@
 
 # double-end fixed beam (300x70x2um)
 
+[DOI: 10.1109/JSEN.2025.3553835](https://ieeexplore.ieee.org/document/10945551)
+
 ## TABLE I Geometrical Parameter of Double-Fixed Beam
 
 | parameter | value | unit |
@@ -12,8 +14,6 @@
 | length | 300 | um |
 | thickness | 2 | um |
 | hole area | 8x8 | um<sup>2</sup> |
-
-
 
 ## TABLE II Information for First Four Modes
 
