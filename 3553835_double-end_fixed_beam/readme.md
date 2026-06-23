@@ -5,7 +5,7 @@
 
 ![double-end fixed beam](https://github.com/Kolchuzhin/ROM_benchmarks/blob/main/3553835_double-end_fixed_beam/3553835.svg)
 
-## TABLE I Geometrical Parameter of Double-Fixed Beam
+## TABLE I Material and Geometrical Parameters of Double-Fixed Beam
 
 | parameter | value | unit |
 |:---------:|:-----:|:----:|
